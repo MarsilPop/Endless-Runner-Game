@@ -8,4 +8,6 @@ Art assests were provided by https://bevouliin.com/.
 
 This project is only for showcase and educational porpuses, commercial use is prohibited. 
 
+-- Educational purposes only --
+
 More description is due....
